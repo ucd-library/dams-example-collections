@@ -1,0 +1,9 @@
+@prefix schema: <http://schema.org/> .
+@prefix ldp:  <http://www.w3.org/ns/ldp#> .
+@prefix fedora: <http://fedora.info/definitions/v4/repository#> .
+
+<>
+        a ldp:DirectContainer ;
+        ldp:membershipResource  <metadata> ;
+        ldp:hasMemberRelation   schema:hasPart ;
+        ldp:isMemberOfRelation  schema:isPartOf  .

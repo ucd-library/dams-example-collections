@@ -1,0 +1,11 @@
+@prefix ucdlib: <http://digital.ucdavis.edu/schema#> .
+
+<> a ucdlib:LabelService,
+     ucdlib:Service .
+
+<http://en.wikipedia.org/wiki/Cat>
+	<http://schema.org/name> "Cat" .
+
+<http://en.wikipedia.org/wiki/Dog>
+	<http://schema.org/name> "Dog" .
+
