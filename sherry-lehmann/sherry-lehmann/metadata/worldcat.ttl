@@ -1,0 +1,14 @@
+@prefix ucdlib: <http://digital.ucdavis.edu/schema#> .
+
+<> a ucdlib:LabelService,
+     ucdlib:Service .
+
+<http://id.worldcat.org/fast/1175887>
+	<http://schema.org/name> "Wine--Marketing" .
+
+<http://id.worldcat.org/fast/1008232>
+	<http://schema.org/name> "Manuscripts--Catalogs" .
+
+
+
+
