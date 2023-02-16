@@ -1,0 +1,80 @@
+{
+  "@id": "",
+  "http://schema.org/sdDatePublished": [
+    {
+      "@value": "2022",
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+  ],
+  "http://schema.org/sdLicense": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "@type": [
+    "http://schema.org/Book",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup",
+    "http://schema.org/CreativeWork",
+    "http://schema.org/ImageObject"
+  ],
+  "http://schema.org/about": [
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424368"
+    }
+  ],
+  "http://schema.org/datePublished": [
+    {
+      "@value": "1912",
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+  ],
+  "http://schema.org/identifier": [
+    {
+      "@value": "ark:/87293/d3tq5rj7p"
+    },
+    {
+      "@value": "AR-096"
+    }
+  ],
+  "http://schema.org/sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    {
+      "@value": "UC Davis, Archives and Special Collections"
+    }
+  ],
+  "http://schema.org/name": [
+    {
+      "@value": "1912 Agricola"
+    }
+  ],
+  "http://schema.org/associatedMedia": [
+    {
+      "@id": "media/Agricola_1912.pdf"
+    }
+  ],
+  "http://schema.org/license": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "http://schema.org/creator": [
+    {
+      "@value": "University Farm School. Associated Students"
+    }
+  ],
+  "http://schema.org/image": [
+    {
+      "@id": "media/Agricola_1912_001.jpg"
+    }
+  ],
+  "http://schema.org/publisher": [
+    {
+      "@value": "Associated Students of the University of California Agricultural School"
+    }
+  ]
+}

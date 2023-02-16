@@ -1,0 +1,13 @@
+{
+  "@id": "",
+  "@type": [
+    "http://schema.org/MediaObject",
+    "http://schema.org/CreativeWork",
+    "http://schema.org/ImageObject"
+  ],
+  "http://schema.org/position": [
+    {
+      "@value": 1912
+    }
+  ]
+}

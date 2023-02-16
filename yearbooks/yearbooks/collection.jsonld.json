@@ -1,0 +1,70 @@
+{
+  "@id": "",
+  "http://schema.org/publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    {
+      "@value": "UC Davis, Archives and Special Collections"
+    }
+  ],
+  "http://schema.org/sdLicense": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "http://schema.org/sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    {
+      "@value": "UC Davis, Archives and Special Collections"
+    }
+  ],
+  "http://schema.org/identifier": [
+    {
+      "@value": "AR-096"
+    }
+  ],
+  "http://schema.org/name": [
+    {
+      "@value": "University of California, Davis Yearbooks"
+    }
+  ],
+  "@type": [
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup",
+    "http://schema.org/Collection"
+  ],
+  "http://schema.org/license": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "http://schema.org/datePublished": [
+    {
+      "@value": "2022",
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+  ],
+  "http://schema.org/sdDatePublished": [
+    {
+      "@value": "2022",
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+  ],
+  "http://schema.org/about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1424368"
+    }
+  ],
+  "http://schema.org/image": [
+    {
+      "@id": "uc-davis.jpeg"
+    }
+  ],
+  "http://schema.org/description": [
+    {
+      "@value": "This collection includes preservation copies of UC Davis undergraduate yearbooks, the School of Veterinary Medicine’s Centaur, the School of Medicine yearbooks and Anomalies and Curiosities, and the 2000 Law School yearbook. \n\n Agricola, issued in 1911, was the first UC yearbook specific to the Davis campus. The yearbook changed title to Farm Rodeo in 1917 and then to The Rodeo in 1927, continuing with that title until the early 1970s. Publication of an undergraduate yearbook was suspended during the 1970s, with the notable exception of the 1971 Yearbox, a portfolio containing a variety of items including a 45 RPM record. In 1979, the yearbook re-emerged under the title El Rodeo, which it retained for most of the following years. The 1980s saw a few short-lived title changes ( Haystack in 1983 and Aggie Life from 1985-1986) and a hiatus in publication from 1988-1993. From 1994 to its final edition in 2006, the yearbook remained titled El Rodeo."
+    }
+  ]
+}
