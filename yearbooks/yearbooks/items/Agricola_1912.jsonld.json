@@ -52,11 +52,6 @@
       "@value": "1912 Agricola"
     }
   ],
-  "http://schema.org/associatedMedia": [
-    {
-      "@id": "media/Agricola_1912.pdf"
-    }
-  ],
   "http://schema.org/license": [
     {
       "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

@@ -10,7 +10,7 @@
   ],
   "http://www.w3.org/ns/ldp#membershipResource": [
     {
-      "@id": ".."
+      "@id": "."
     }
   ],
   "http://www.w3.org/ns/ldp#isMemberOfRelation": [
