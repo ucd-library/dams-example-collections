@@ -1,0 +1,60 @@
+{
+  "@id": "",
+  "@type": [
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup",
+    "http://schema.org/CreativeWork"
+  ],
+  "http://schema.org/associatedMedia": [
+    {
+      "@id": "info:fedora/item/ark:/87293/d3jf5s/cua_000011_access.mp4"
+    }
+  ],
+  "http://schema.org/creator": [
+    {
+      "@value": "Greene, Henry Dart"
+    }
+  ],
+  "http://schema.org/license": [
+    {
+      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    }
+  ],
+  "http://schema.org/identifier": [
+    {
+      "@value": "D-192, Box:29, Folder:11"
+    },
+    {
+      "@value": "ark:/87293/d3jf5s"
+    }
+  ],
+  "http://schema.org/publisher": [
+    {
+      "@value": "UC Davis Library, Archives and Special Collections"
+    }
+  ],
+  "http://schema.org/datePublished": [
+    {
+      "@value": "1961"
+    }
+  ],
+  "http://schema.org/image": [
+    {
+      "@id": "info:fedora/item/ark:/87293/d3jf5s/cua_000011_access006.jpg"
+    }
+  ],
+  "http://schema.org/isPartOf": [
+    {
+      "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"
+    }
+  ],
+  "http://schema.org/name": [
+    {
+      "@value": "Oroville Dam Site"
+    }
+  ],
+  "http://schema.org/description": [
+    {
+      "@value": "Footage contains views of the Oroville Dam site. Also included are shots of billboards and campaign signs such as \"Don't Split California. Vote No on No. 15,\" \"California Needs Water! Vote Yes on One,\" \"Stop the Water Monster. Vote No on Prop 1.\""
+    }
+  ]
+}
