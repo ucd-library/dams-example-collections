@@ -6,7 +6,7 @@
   ],
   "http://schema.org/associatedMedia": [
     {
-      "@id": "@base:cua_000011_access.mp4"
+      "@id": "@base:/cua_000011_access.mp4"
     }
   ],
   "http://schema.org/creator": [
@@ -39,7 +39,7 @@
   ],
   "http://schema.org/image": [
     {
-      "@id": "@base:cua_000011_access006.jpg"
+      "@id": "@base:/cua_000011_access006.jpg"
     }
   ],
   "http://schema.org/isPartOf": [

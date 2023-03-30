@@ -64,7 +64,7 @@
   ],
   "http://schema.org/image": [
     {
-      "@id": "media/Agricola_1912_001.jpg"
+      "@id": "@base:/media/Agricola_1912_001.jpg"
     }
   ],
   "http://schema.org/publisher": [
