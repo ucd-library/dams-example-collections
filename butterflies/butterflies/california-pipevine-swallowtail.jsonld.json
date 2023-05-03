@@ -1,0 +1,42 @@
+{
+    "@id": "",
+    "@type": [
+      "http://fedora.info/definitions/v4/repository#ArchivalGroup",
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/creator": [
+      {
+        "@value": "USFWS"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "ark:/california-pipevine-swallowtail"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@value": "UC Davis Library, Archives and Special Collections"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@value": "2019"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "@base:pipevine-swallowtail_1.png"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "California pipevine swallowtail"
+      }
+    ]
+  }

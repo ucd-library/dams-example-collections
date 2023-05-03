@@ -1,0 +1,23 @@
+{
+    "@id": "",
+    "datePublished": {
+        "@value": "2015",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "creator": "Leigh Dragoon",
+    "license": {
+        "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    },
+    "name": "Swallowtail Thumbnail",
+    "ebucore:filename": "thumbnail.jpg",
+    "ebucore:hasMimeType": "image/jpeg",
+    "@type": [
+        "schema:CreativeWork",
+        "schema:ImageObject"
+    ],
+    "@context": {
+        "schema": "http://schema.org/",
+        "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#",
+        "@vocab": "http://schema.org/"
+    }
+}

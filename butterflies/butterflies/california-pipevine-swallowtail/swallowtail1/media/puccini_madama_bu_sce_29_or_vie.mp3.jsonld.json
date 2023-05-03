@@ -1,0 +1,45 @@
+{
+    "@id": "puccini_madama_bu_sce_29_or_vie.mp3",
+    "@type": [
+        "schema:MediaObject",
+        "schema:CreativeWork",
+        "schema:AudioObject"
+    ],
+    "alternativeHeadline": "Madame Butterfly: Gran ventura",
+    "encodingFormat": "audio/mpeg",
+    "productionCompany": "Stefano D'Urso",
+    "image": {
+        "@id": "thumbnail.jpg"
+    },
+    "keywords": [
+        "Madame",
+        "Butterfly",
+        "Gran ventura",
+        "Opera"
+    ],
+    "license": {
+        "@id": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "contentUrl": "puccini_madama_bu_sce_29_or_vie.mp3",
+    "embedUrl": "puccini_madama_bu_sce_29_or_vie.mp3",
+    "ebucore:filename": "puccini_madama_bu_sce_29_or_vie.mp3",
+    "about": "https://www.liberliber.it/online/autori/autori-p/giacomo-puccini/madama-butterfly-accademia-nazionale-di-santa-cecilia/",
+    "audio": "puccini_madama_bu_sce_29_or_vie.mp3",
+    "duration": "03:40",
+    "contentSize": "4798055",
+    "name": "Gran ventura",
+    "datePublished": {
+        "@value": "2007",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "caption": "Madame Butterfly: Gran ventura",
+    "url": "https://www.liberliber.it/mediateca/musica/p/puccini/madama_butterfly_erede/mp3/puccini_madama_bu_sce_07_gran_v.mp3",
+    "encodesCreativeWork": {
+        "@id": "z:"
+    },
+    "@context": {
+        "schema": "http://schema.org/",
+        "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#",
+        "@vocab": "http://schema.org/"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "@id": "",
+    "ucdlib:clientMedia": {
+        "@id": "info:fedora/item/monarchs/monarch1/stream"
+    },
+    "author": "USFWS",
+    "datePublished": {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "associatedMedia": {
+        "@id": "info:fedora/item/monarchs/monarch1/monarch_butterfly.mp4"
+    },
+    "image": {
+        "@id": "info:fedora/item/monarchs/monarch1/thumbnail.jpg"
+    },
+    "keywords": [
+        "Monarch",
+        "Butterflies"
+    ],
+    "name": "Monarch butterfly on yellow flower",
+    "@type": "schema:CreativeWork",
+    "@context": {
+        "schema": "http://schema.org/",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "ucdlib": "http://digital.ucdavis.edu/schema#",
+        "@vocab": "http://schema.org/"
+    }
+}

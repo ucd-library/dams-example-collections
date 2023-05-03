@@ -1,0 +1,70 @@
+{
+    "@id": "",
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      },
+      {
+        "@value": "UC Davis, Archives and Special Collections"
+      }
+    ],
+    "http://schema.org/sdLicense": [
+      {
+        "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+      }
+    ],
+    "http://schema.org/sdPublisher": [
+      {
+        "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      },
+      {
+        "@value": "UC Davis, Archives and Special Collections"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "butterflies"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Northern California Butterflies"
+      }
+    ],
+    "@type": [
+      "http://fedora.info/definitions/v4/repository#ArchivalGroup",
+      "http://schema.org/Collection"
+    ],
+    "http://schema.org/license": [
+      {
+        "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+      }
+    ],
+    "http://schema.org/sdDatePublished": [
+      {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "http://id.worldcat.org/fast/843103"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "@base:butterflies-thumbnail.jpg"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "This collection includes pictures and videos about various types of butterflies."
+      }
+    ]
+  }

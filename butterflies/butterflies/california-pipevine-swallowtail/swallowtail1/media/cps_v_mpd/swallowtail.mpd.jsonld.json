@@ -1,0 +1,47 @@
+{
+    "@id": "swallowtail.mpd",
+    "keywords": [
+        "Butterflies",
+        "California",
+        "Video",
+        "Pipevine Swallowtail"
+    ],
+    "video": "swallowtail.mpd",
+    "embedUrl": "swallowtail.mpd",
+    "videoFrameSize": "320x240",
+    "@type": [
+        "schema:MediaObject",
+        "schema:VideoObject",
+        "ucdlib:StreamingVideo"
+    ],
+    "videoQuality": "240",
+    "encodesCreativeWork": {
+        "@id": "z:"
+    },
+    "datePublished": {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "contentSize": "1461237",
+    "publisher": "Wikimedia Commons",
+    "description": "California Pipevine Swallowtail videos",
+    "image": {
+        "@id": "thumbnail.png"
+    },
+    "encodingFormat": "application/dash+xml",
+    "fileSize": "1461237",
+    "creator": "Wikimedia Commons",
+    "name": "California Pipevine Swallowtail Butterfly",
+    "alternativeHeadline": "DESCRIPTION",
+    "duration": "00:36",
+    "@context": {
+        "schema": "http://schema.org/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "fedora": "http://fedora.info/definitions/v4/webac#",
+        "ucdlib": "http://digital.ucdavis.edu/schema#",
+        "lcna": "http://id.loc.gov/authorities/names/",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "acl": "http://www.w3.org/ns/auth/acl#",
+        "@vocab": "http://schema.org/"
+    }
+}

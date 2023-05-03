@@ -1,0 +1,28 @@
+{
+    "@id": "IN117000.pdf",
+    "about": "Super awesome pdf",
+    "url": "https://edis.ifas.ufl.edu/pdffiles/IN/IN117000.pdf",
+    "@type": [
+        "schema:MediaObject",
+        "schema:CreativeWork",
+        "schema:DigitalDocument"
+    ],
+    "accessMode": "textual",
+    "hasDigitalDocumentPermission": {
+        "@value": "true",
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "contentSize": "3937486",
+    "encodesCreativeWork": {
+        "@id": ""
+    },
+    "encodingFormat": "application/pdf",
+    "datePublished": {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "@context": {
+        "schema": "http://schema.org/",
+        "@vocab": "http://schema.org/"
+    }
+}

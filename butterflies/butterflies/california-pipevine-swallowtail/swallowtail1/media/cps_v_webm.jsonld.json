@@ -1,0 +1,49 @@
+{
+    "@id": "",
+    "@type": [
+        "schema:Video",
+        "schema:CreativeWork",
+        "ldp:BasicContainer"
+    ],
+    "keywords": [
+        "California",
+        "Pipevine Swallowtail",
+        "Video",
+        "Butterflies"
+    ],
+    "video": {
+        "@id": "cps_v_webm/Butterfly_Swallowtail.ogv.240p.vp9.webm"
+    },
+    "name": "California Pipevine Swallowtail Butterfly",
+    "description": "California Pipevine Swallowtail videos",
+    "duration": "00:36",
+    "publisher": "Wikimedia Commons",
+    "encodingFormat": "video/webm",
+    "contentSize": "1461237",
+    "videoFrameSize": "320x240",
+    "license": {
+        "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    },
+    "datePublished": {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "ebucore:filename": "Butterfly_Swallowtail.ogv.240p.vp9.webm",
+    "image": {
+        "@id": "cps_v_webm/thumbnail.jpg"
+    },
+    "url": "https://en.wikipedia.org/wiki/File:Butterfly_Swallowtail.ogv",
+    "videoQuality": "240",
+    "creator": "Wikimedia Commons",
+    "alternativeHeadline": "DESCRIPTION",
+    "@context": {
+        "schema": "http://schema.org/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "fedora": "http://fedora.info/definitions/v4/webac#",
+        "lcna": "http://id.loc.gov/authorities/names/",
+        "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "acl": "http://www.w3.org/ns/auth/acl#",
+        "@vocab": "http://schema.org/"
+    }
+}

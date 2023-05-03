@@ -38,6 +38,8 @@
         rdf:type                    ldp:DirectContainer ;
         rdf:type                    schema:MediaObject ;
         schema:name                 "Image List"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:about       "Manuscripts--Catalogs"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:about       "Wine--Marketing"^^<http://www.w3.org/2001/XMLSchema#string> ;
         ldp:isMemberOfRelation      schema:partOf ;
         schema:encodesCreativeWork  <..> ;
         ldp:membershipResource      <images> ;

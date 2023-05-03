@@ -1,0 +1,28 @@
+{
+    "@id": "sample_transcript.pdf",
+    "@type": [
+        "schema:MediaObject",
+        "schema:CreativeWork",
+        "schema:DigitalDocument"
+    ],
+    "hasDigitalDocumentPermission": {
+        "@value": "true",
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "contentSize": "144149",
+    "about": "Transcript of butterfly video blah blah blah.",
+    "accessMode": "textual",
+    "encodingFormat": "application/pdf",
+    "name": "Sample Transcript",
+    "encodesCreativeWork": {
+        "@id": ""
+    },
+    "datePublished": {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "@context": {
+        "schema": "http://schema.org/",
+        "@vocab": "http://schema.org/"
+    }
+}
