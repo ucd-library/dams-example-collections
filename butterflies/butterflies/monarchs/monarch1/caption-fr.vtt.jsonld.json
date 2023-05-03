@@ -1,0 +1,10 @@
+{
+    "@id": "",
+    "inLanguage": "fr",
+    "encodingFormat": "text/vtt",
+    "@type": "schema:CreativeWork",
+    "@context": {
+        "schema": "http://schema.org/",
+        "@vocab": "http://schema.org/"
+    }
+}

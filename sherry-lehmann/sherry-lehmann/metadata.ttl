@@ -40,7 +40,8 @@
         schema:keywords       "Wine Catalogs"^^<http://www.w3.org/2001/XMLSchema#string> ;
         schema:keywords       "Wine--Marketing"^^<http://www.w3.org/2001/XMLSchema#string> ;
         schema:keywords       "1943/1967"^^<http://www.w3.org/2001/XMLSchema#string> ;
-        schema:image          <sherry-lehmann/D-637/d7mm2n/media/images/d7mm2n-001.jpg> ;
+        schema:about       "Manuscripts--Catalogs"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:image          <info:fedora/item/ark:/87287/d7dw8t/media/images/d7dw8t-001.jpg> ;
         schema:publisher      "University of California, Davis. General Library. Dept. of Special Collections"^^<http://www.w3.org/2001/XMLSchema#string> ;
         schema:publisher      <http://id.loc.gov/authorities/names/no2008108707> ;
         schema:name           "Sherry Lehmann Wine Catalogs"^^<http://www.w3.org/2001/XMLSchema#string> ;

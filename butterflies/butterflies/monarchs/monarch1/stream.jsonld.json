@@ -1,0 +1,41 @@
+{
+    "@id": "",
+    "schema:transcript": [
+        {
+            "@id": "sample_transcript.pdf"
+        },
+        {
+            "@id": "sample_transcript.txt"
+        }
+    ],
+    "@type": [
+        "schema:VideoObject",
+        "ucdlib:StreamingVideo",
+        "schema:MediaObject",
+        "ldp:Container"
+    ],
+    "ucdlib:clientMediaDownload": {
+        "@id": "monarch_butterfly.mp4"
+    },
+    "schema:encodingFormat": "application/x-mpegURL",
+    "schema:caption": [
+        {
+            "@id": "caption-fr.vtt"
+        },
+        {
+            "@id": "caption-en.vtt"
+        }
+    ],
+    "schema:contentUrl": {
+        "@id": "stream/playlist.m3u8"
+    },
+    "schema:encodesCreativeWork": {
+        "@id": "monarch_butterfly.mp4"
+    },
+    "@context": {
+        "schema": "http://schema.org/",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "ucdlib": "http://digital.ucdavis.edu/schema#",
+        "@vocab": "http://schema.org/"
+    }
+}

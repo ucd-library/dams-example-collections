@@ -1,0 +1,25 @@
+{
+    "@id": "",
+    "isMemberOfRelation": "encodesCreativeWork",
+    "hasMemberRelation": "associatedMedia",
+    "membershipResource": "",
+    "description": "California Pipevine Swallowtail Butterfly Videos",
+    "@type": "ldp:DirectContainer",
+    "@context": {
+        "schema": "http://schema.org/",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "@vocab": "http://schema.org/",
+        "isMemberOfRelation": {
+            "@id": "encodesCreativeWork",
+            "@type": "@id"
+        },
+        "hasMemberRelation": {
+            "@id": "associatedMedia",
+            "@type": "@id"
+        },
+        "membershipResource": {
+            "@id": "",
+            "@type": "@id"
+        }
+    }
+}

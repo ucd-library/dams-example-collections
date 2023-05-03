@@ -1,0 +1,24 @@
+{
+    "@id": "",
+    "name": "California Pipevine Swallowtail Butterfly",
+    "ldp:isMemberOfRelation": {
+        "@id": "schema:isPartOf"
+    },
+    "ldp:hasMemberRelation": {
+        "@id": "schema:hasPart"
+    },
+    "ldp:membershipResource": {
+        "@id": "cps_v_mpd"
+    },
+    "@type": [
+        "ucdlib:StreamingVideo",
+        "schema:MediaObject",
+        "ldp:DirectContainer"
+    ],
+    "@context": {
+        "schema": "http://schema.org/",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "ucdlib": "http://digital.ucdavis.edu/schema#",
+        "@vocab": "http://schema.org/"
+    }
+}

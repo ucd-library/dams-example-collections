@@ -1,0 +1,26 @@
+{
+    "@id": "",
+    "author": "USFWS",
+    "datePublished": {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "associatedMedia": {
+        "@id": "info:fedora/item/monarchs/monarch-no-media/monarch_butterfly.mp4"
+    },
+    "image": {
+        "@id": "info:fedora/item/monarchs/monarch-no-media/thumbnail.jpg"
+    },
+    "keywords": [
+        "Monarch",
+        "Butterflies"
+    ],
+    "name": "Monarch butterfly on yellow flower.  Container does not use client-media ns",
+    "@type": "schema:CreativeWork",
+    "@context": {
+        "schema": "http://schema.org/",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "ucdlib": "http://digital.ucdavis.edu/schema#",
+        "@vocab": "http://schema.org/"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "@id": "",
+    "author": "USFWS",
+    "datePublished": {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "image": {
+        "@id": "info:fedora/item/california-pipevine-swallowtail/swallowtail1/pipevine-swallowtail_1.jpg"
+    },
+    "keywords": [
+        "Pipevine Swallowtail",
+        "California",
+        "Butterflies"
+    ],
+    "name": "California swallowtails",
+    "@type": "schema:CreativeWork",
+    "@context": {
+        "schema": "http://schema.org/",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@vocab": "http://schema.org/"
+}

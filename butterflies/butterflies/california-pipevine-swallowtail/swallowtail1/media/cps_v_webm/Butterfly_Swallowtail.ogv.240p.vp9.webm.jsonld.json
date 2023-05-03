@@ -1,0 +1,45 @@
+{
+    "@id": "Butterfly_Swallowtail.ogv.240p.vp9.webm",
+    "videoFrameSize": "320x240",
+    "contentSize": "1461237",
+    "alternativeHeadline": "Swallowtail Butterfly",
+    "duration": "00:36",
+    "keywords": [
+        "Papilio rutulus",
+        "Butterfly",
+        "Swallowtail"
+    ],
+    "datePublished": {
+        "@value": "2019",
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    "embedUrl": "Butterfly_Swallowtail.ogv.240p.vp9.webm",
+    "url": "https://en.wikipedia.org/wiki/File:Butterfly_Swallowtail.ogv",
+    "ebucore:filename": "Butterfly_Swallowtail.ogv.240p.vp9.webm",
+    "@type": [
+        "schema:ImageObject",
+        "schema:VideoObject",
+        "schema:CreativeWork",
+        "schema:MediaObject"
+    ],
+    "encodingFormat": "video/webm",
+    "about": {
+        "@id": "https://en.wikipedia.org/wiki/Swallowtail_butterfly"
+    },
+    "productionCompany": "Wikimedia Commons",
+    "videoQuality": "240",
+    "encodesCreativeWork": {
+        "@id": ""
+    },
+    "caption": "A swallowtail butterfly.",
+    "name": "Swallowtail Butterfly",
+    "video": "Butterfly_Swallowtail.ogv.240p.vp9.webm",
+    "license": {
+        "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+    },
+    "@context": {
+        "schema": "http://schema.org/",
+        "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#",
+        "@vocab": "http://schema.org/"
+    }
+}

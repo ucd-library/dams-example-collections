@@ -1,0 +1,19 @@
+{
+    "@id": "butterflies-thumbnail.jpg",
+    "ebucore:hasMimeType": "image/jpg",
+    "ebucore:filename": "butterflies-thumbnail.jpg",
+    "encodesCreativeWork": {
+        "@id": ""
+    },
+    "@type": [
+        "schema:CreativeWork",
+        "schema:MediaObject",
+        "schema:ImageObject"
+    ],
+    "@context": {
+        "schema": "http://schema.org/",
+        "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#",
+        "ldp": "http://www.w3.org/ns/ldp#",
+        "@vocab": "http://schema.org/"
+    }
+}
