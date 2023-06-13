@@ -1,8 +1,7 @@
 {
     "@id": "",
     "@type": [
-      "http://fedora.info/definitions/v4/repository#ArchivalGroup",
-      "http://schema.org/CreativeWork"
+      "http://www.w3.org/ns/ldp#DirectContainer"
     ],
     "http://schema.org/creator": [
       {
