@@ -1,0 +1,52 @@
+@prefix schema:  <http://schema.org/> .
+@prefix premis:  <http://www.loc.gov/premis/rdf/v1#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix wdt:  <http://www.wikidata.org/prop/direct/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix webac:  <http://fedora.info/definitions/v4/webac#> .
+@prefix acl:  <http://www.w3.org/ns/auth/acl#> .
+@prefix wd:  <https://www.wikidata.org/wiki/> .
+@prefix xsi:  <http://www.w3.org/2001/XMLSchema-instance> .
+@prefix ns001:  <http://fedora.info/definitions/v4/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xmlns:  <http://www.w3.org/2000/xmlns/> .
+@prefix xml:  <http://www.w3.org/XML/1998/namespace> .
+@prefix rel:  <http://id.loc.gov/vocabulary/relators/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix fedoraconfig:  <http://fedora.info/definitions/v4/config#> .
+@prefix prov:  <http://www.w3.org/ns/prov#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix authz:  <http://fedora.info/definitions/v4/authorization#> .
+@prefix cc:  <http://creativecommons.org/ns#> .
+@prefix ore:  <http://www.openarchives.org/ore/terms/> .
+@prefix test:  <info:fedora/test/> .
+@prefix ucdlib:  <http://digital.ucdavis.edu/schema#> .
+@prefix gn:  <http://www.geonames.org/ontology#> .
+@prefix pto:  <http://www.productontology.org/id/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix fedora:  <http://fedora.info/definitions/v4/repository#> .
+@prefix ebucore:  <http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#> .
+@prefix ldp:  <http://www.w3.org/ns/ldp#> .
+@prefix iana:  <http://www.iana.org/assignments/relation/> .
+@prefix xs:  <http://www.w3.org/2001/XMLSchema> .
+@prefix exif:  <http://www.w3.org/2003/12/exif/ns#> .
+@prefix dc:  <http://purl.org/dc/elements/1.1/> .
+
+<>
+        rdf:type              schema:Collection, fedora:ArchivalGroup ;
+        schema:identifier     "sherry-lehmann"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:keywords       "Manuscripts--Catalogs"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:keywords       "Wine Catalogs"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:keywords       "Wine--Marketing"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:keywords       "1943/1967"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:image          <info:fedora/item/ark:/87287/d7gd3q/media/images/d7gd3q-001.jpg> ;
+        schema:publisher      "University of California, Davis. General Library. Dept. of Special Collections"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:publisher      <http://id.loc.gov/authorities/names/no2008108707> ;
+        schema:name           "Sherry Lehmann Wine Catalogs"^^<http://www.w3.org/2001/XMLSchema#string> ;
+        ucdlib:hasGraph       <sherry-lehmann/graph.hdt> ;
+        schema:description    "This collection includes over four-hundred catalogs drawn primarily from the famed wine and liquor distributor, Sherry-Lehmann. The catalogs date from the late 1930s to 2017, with an emphasis on the late 1940s through the 1970s. These beautifully illustrated brochures list prices from thousands of now rare bottles of wine, helping to chart America’s appreciation for wine from France, Spain, Italy, and beyond. They also provide a view into changing industry regulations and economics. The catalogs digitized here come from the [Sherry Lehmann] (https://oac.cdlib.org/findaid/ark:/13030/c8pc37z3/), [Roy Brady] (https://oac.cdlib.org/findaid/ark:/13030/c8xk8hg8/) and [Arnold A. Bayard] (https://oac.cdlib.org/findaid/ark:/13030/c8z039wq/) collections of materials related to wine appreciation, wine collecting, and the wine industry held by UC Davis Library’s Archives and Special Collections."^^<http://www.w3.org/2001/XMLSchema#string> ;
+        schema:license        <http://rightsstatements.org/vocab/InC-NC/1.0/> ;
+        schema:about          <http://id.worldcat.org/fast/1008232> ;
+        schema:about          <http://id.worldcat.org/fast/1175887> ;
+        schema:datePublished  "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .

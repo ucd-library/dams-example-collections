@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "http://id.worldcat.org/fast/1008232",
+    "http://schema.org/name": [
+      {
+        "@value": "Manuscripts--Catalogs"
+      }
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175887",
+    "http://schema.org/name": [
+      {
+        "@value": "Wine--Marketing"
+      }
+    ]
+  },
+  {
+    "@id": "",
+    "@type": [
+      "http://www.w3.org/ns/ldp#BasicContainer",
+      "http://digital.ucdavis.edu/schema#LabelService",
+      "http://fedora.info/definitions/v4/repository#Container",
+      "http://www.w3.org/ns/ldp#RDFSource",
+      "http://digital.ucdavis.edu/schema#Service",
+      "http://www.w3.org/ns/ldp#Resource",
+      "http://fedora.info/definitions/v4/repository#Resource",
+      "http://www.w3.org/ns/ldp#Container"
+    ]
+  }
+]
+
